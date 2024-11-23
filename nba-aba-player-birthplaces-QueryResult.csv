@@ -1,0 +1,1749 @@
+region,city,players_origin
+Illinois,Chicago,155
+Pennsylvania,Philadelphia,122
+California,Los Angeles,113
+New York,Brooklyn,107
+New York,New York,103
+District of Columbia,Washington,76
+Michigan,Detroit,69
+Georgia,Atlanta,48
+Texas,Dallas,47
+Maryland,Baltimore,44
+Texas,Houston,43
+Tennessee,Memphis,40
+Kentucky,Louisville,37
+Missouri,St. Louis,35
+Indiana,Indianapolis,34
+Wisconsin,Milwaukee,30
+Louisiana,New Orleans,30
+Washington,Seattle,29
+Alabama,Birmingham,27
+Ohio,Cleveland,27
+New York,Bronx,26
+California,Oakland,25
+Louisiana,Baton Rouge,25
+California,San Francisco,25
+New Jersey,Newark,23
+Pennsylvania,Pittsburgh,23
+Minnesota,Minneapolis,22
+Ohio,Dayton,22
+Ohio,Columbus,22
+Oregon,Portland,21
+New York,Queens,20
+Ohio,Cincinnati,20
+North Carolina,Charlotte,19
+Tennessee,Nashville,19
+California,San Diego,18
+Indiana,Gary,18
+Mississippi,Jackson,18
+California,Long Beach,17
+Ohio,Toledo,17
+Michigan,Flint,17
+Canada,Toronto,16
+New York,Buffalo,16
+Florida,Miami,15
+Massachusetts,Boston,15
+New Jersey,Jersey City,15
+Ohio,Akron,14
+North Carolina,Winston-Salem,14
+Indiana,Fort Wayne,14
+Australia,Melbourne,13
+North Carolina,Raleigh,13
+Utah,Salt Lake City,12
+New York,Rochester,12
+Nevada,Las Vegas,12
+Viginia,Richmond,12
+Missouri,Kansas City,12
+Oklahoma,Oklahoma City,12
+Oklahoma,Tulsa,12
+Texas,San Antonio,11
+Serbia,Belgrade,11
+Florida,Jacksonville,11
+Connecticut,Hartford,11
+Arkansas,Little Rock,11
+California,Sacramento,10
+New York,Syracuse,10
+Florida,Orlando,10
+Alabama,Mobile,10
+Louisiana,Shreveport,10
+California,Riverside,10
+New Jersey,Trenton,10
+California,Fresno,10
+Louisiana,Monroe,9
+Canada,Montreal,9
+Ohio,Canton,9
+California,San Jose,9
+Michigan,Saginaw,9
+South Carolina,Greenville,9
+California,Compton,9
+Michigan,Grand Rapids,9
+Arizona,Phoenix,9
+California,Inglewood,9
+South Carolina,Columbia,9
+New York,Mount Vernon,9
+Nebraska,Omaha,8
+North Carolina,Greensboro,8
+Senegal,Dakar,8
+Indiana,South Bend,8
+Croatia,Split,8
+Lithuania,Kaunas,8
+Kansas,Kansas City,8
+Georgia,Augusta,8
+Washington,Tacoma,8
+Kentucky,Lexington,8
+Texas,Fort Worth,8
+Georgia,Marietta,7
+California,Torrance,7
+Georgia,Savannah,7
+Connecticut,New Haven,7
+North Carolina,Durham,7
+Minnesota,St. Paul,7
+United Kingdom,London,7
+South Carolina,Charleston,7
+Alabama,Montgomery,7
+Colorado,Denver,7
+Illinois,Peoria,7
+Delaware,Wilmington,7
+California,Bakersfield,7
+North Carolina,Gastonia,6
+Maryland,Silver Spring,6
+California,Berkeley,6
+Nigeria,Lagos,6
+New Jersey,Union City,6
+Spain,Madrid,6
+Illinois,Joliet,6
+Connecticut,Bridgeport,6
+Florida,Tampa,6
+Michigan,Lansing,6
+Illinois,Harvey,6
+Rhode Island,Providence,6
+Illinois,Maywood,6
+Indiana,Muncie,6
+New Jersey,Camden,6
+Florida,Pensacola,6
+Wisconsin,Racine,6
+Indiana,East Chicago,6
+Illinois,Evanston,6
+Viginia,Norfolk,6
+Kansas,Wichita,6
+France,Paris,6
+New Jersey,Elizabeth,6
+New York,Jamaica,5
+North Carolina,Kinston,5
+Indiana,Terre Haute,5
+Kentucky,Covington,5
+New Jersey,New Brunswick,5
+New Jersey,Atlantic City,5
+Viginia,Alexandria,5
+Massachusetts,Worcester,5
+Michigan,Pontiac,5
+Pennsylvania,Chester,5
+Utah,Provo,5
+Illinois,Aurora,5
+Canada,Mississauga,5
+California,Hollywood,5
+Ohio,,5
+Ohio,Middletown,5
+North Carolina,Wilmington,5
+North Carolina,Fayetteville,5
+Slovenia,Ljubljana,5
+California,Pasadena,5
+Turkey,Istanbul,5
+Georgia,Macon,5
+Georgia,Columbus,5
+Mississippi,Meridian,4
+Kentucky,Hopkinsville,4
+New Jersey,Orange,4
+California,San Bernardino,4
+Nebraska,Lincoln,4
+Iowa,Des Moines,4
+Viginia,Petersburg,4
+Indiana,Marion,4
+New Jersey,Teaneck,4
+Texas,Lubbock,4
+Tennessee,Cleveland,4
+Ohio,Springfield,4
+Tennessee,Knoxville,4
+Wisconsin,Madison,4
+Florida,Ocala,4
+Viginia,Chesapeake,4
+Indiana,Evansville,4
+Georgia,Albany,4
+Viginia,Portsmouth,4
+North Carolina,Rocky Mount,4
+Bosnia and Herzegovina,Mostar,4
+Florida,Lakeland,4
+Arkansas,West Memphis,4
+Dominican Republic,Santo Domingo,4
+Illinois,Rockford,4
+Kentucky,Owensboro,4
+Washington,Spokane,4
+Michigan,Benton Harbor,4
+Texas,Arlington,4
+New York,The Bronx,4
+Illinois,Waukegan,4
+Alabama,Huntsville,4
+Iowa,Cedar Rapids,4
+Pennsylvania,Harrisburg,4
+New York,Poughkeepsie,4
+Greece,Athens,4
+California,Merced,4
+California,West Covina,4
+Democratic Republic of the Congo,Kinshasa,4
+Arkansas,Fort Smith,4
+New York,Rockville Centre,4
+Michigan,Kalamazoo,4
+Bahamas,Nassau,4
+Arkansas,Pine Bluff,4
+Viginia,Fairfax,4
+Mississippi,Starkville,3
+California,Lynwood,3
+Michigan,Birmingham,3
+California,Gardena,3
+Texas,Tyler,3
+Pennsylvania,Altoona,3
+Oklahoma,Edmond,3
+South Sudan,Wau,3
+Arkansas,McGehee,3
+New Jersey,Glen Ridge,3
+Oregon,Eugene,3
+Indiana,Richmond,3
+California,North Hollywood,3
+Indiana,Bloomington,3
+Argentina,Santa Fe,3
+Louisiana,Zachary,3
+Argentina,Buenos Aires,3
+Indiana,Anderson,3
+Haiti,Port-au-Prince,3
+Tennessee,Chattanooga,3
+California,San Pedro,3
+Alabama,Tuskegee,3
+Kentucky,Newport,3
+Texas,Corsicana,3
+Mississippi,Canton,3
+California,San Mateo,3
+Louisiana,Minden,3
+California,Modesto,3
+New Jersey,Paterson,3
+Florida,Bartow,3
+North Carolina,Asheville,3
+Pennsylvania,New Kensington,3
+New York,Yonkers,3
+Viginia,Hampton,3
+Georgia,Tbilisi,3
+Illinois,Decatur,3
+Germany,Munich,3
+Australia,Sydney,3
+Michigan,Southfield,3
+New York,Binghamton,3
+Illinois,Oak Park,3
+Illinois,Springfield,3
+Mississippi,Yazoo City,3
+Brazil,Sao Paulo,3
+New York,New Rochelle,3
+New York,Long Island,3
+Viginia,Roanoke,3
+Ohio,Lima,3
+Ukraine,Kiev,3
+Missouri,Poplar Bluff,3
+Utah,Ogden,3
+Michigan,Jackson,3
+New Jersey,Hoboken,3
+Pennsylvania,Uniontown,3
+Louisiana,Pineville,3
+Florida,Daytona Beach,3
+California,Bellflower,3
+Maryland,Cheverly,3
+Washington,Federal Way,3
+Pennsylvania,Johnstown,3
+Mississippi,Greenwood,3
+Missouri,Columbia,3
+Ohio,Bellefontaine,3
+Florida,Gainesville,3
+New Jersey,Plainfield,3
+Iowa,Ames,3
+Alabama,Tuscaloosa,3
+Florida,Lake Wales,3
+Indiana,Hammond,3
+New York,Schenectady,3
+Indiana,Washington,3
+Illinois,Elgin,3
+Colorado,Boulder,3
+Mississippi,Pascagoula,3
+Illinois,Quincy,3
+California,Santa Monica,3
+Kentucky,Russellville,3
+Germany,Frankfurt,3
+Louisiana,Lafayette,3
+Louisiana,Bastrop,3
+California,Walnut Creek,3
+New York,Harlem,3
+New York,Long Island City,3
+Croatia,Zagreb,3
+Michigan,Highland Park,3
+Arizona,Tucson,3
+South Carolina,Orangeburg,3
+Mississippi,Columbus,3
+Michigan,Ann Arbor,3
+New Jersey,Morristown,3
+Viginia,Virginia Beach,3
+Kentucky,Hazard,2
+California,Irvine,2
+Mississippi,Macon,2
+Canada,Scarborough,2
+Germany,Berlin,2
+France,Rouen,2
+Guyana,Georgetown,2
+Georgia,,2
+Louisiana,Morgan City,2
+French Guiana,Cayenne,2
+Louisiana,Tallulah,2
+Illinois,Rock Island,2
+Mississippi,Gulfport,2
+Greece,Trikala,2
+Indiana,,2
+Kentucky,Birmingham,2
+Ohio,Hamilton,2
+Canada,Halifax,2
+Illinois,Belleville,2
+California,Palo Alto,2
+Illinois,Lockport,2
+Poland,Lodz,2
+Florida,Milton,2
+Nigeria,Port Harcourt,2
+Viginia,Chesterfield,2
+Wisconsin,Wausau,2
+Viginia,Greenville County,2
+Minnesota,Burnsville,2
+Georgia,Villa Rica,2
+Massachusetts,Salem,2
+Florida,West Palm Beach,2
+Maryland,Clinton,2
+Indiana,Yorktown,2
+Germany,Wurzburg,2
+Minnesota,Hibbing,2
+Connecticut,Stamford,2
+New York,Albany,2
+China,Beijing,2
+Latvia,Valmiera,2
+Michigan,Traverse City,2
+Georgia,College Park,2
+Michigan,Muskegon,2
+New Jersey,Irvington,2
+France,Mulhouse,2
+Illinois,Melrose Park,2
+Minnesota,Hopkins,2
+Maryland,Upper Marlboro,2
+Pennsylvania,Sharon,2
+Kentucky,Murray,2
+Indiana,Bedford,2
+North Carolina,Burlington,2
+Georgia,Toccoa,2
+Florida,Winter Haven,2
+North Carolina,Greenville,2
+New Jersey,East Orange,2
+Japan,Yokohama,2
+Mississippi,Hattiesburg,2
+Mississippi,New Albany,2
+Kansas,Liberal,2
+Mississippi,Rolling Fork,2
+Ohio,Findlay,2
+Australia,Adelaide,2
+Ohio,Warren,2
+California,Huntington Beach,2
+Florida,Fort Lauderdale,2
+Nigeria,Benin City,2
+Montana,Missoula,2
+Florida,Coral Gables,2
+Illinois,Centralia,2
+Maryland,Frederick,2
+Oklahoma,Norman,2
+Viginia,Danville,2
+Georgia,Canton,2
+New Jersey,Perth Amboy,2
+Kentucky,Paris,2
+Arkansas,Malvern,2
+Pennsylvania,Allentown,2
+New York,Staten Island,2
+Missouri,Boonville,2
+Maryland,Rockville,2
+Georgia,Cartersville,2
+New York,Niagara Falls,2
+Georgia,Thomaston,2
+Spain,Barcelona,2
+Indiana,Elkhart,2
+Florida,Casselberry,2
+Wisconsin,Kenosha,2
+Texas,San Marcos,2
+Florida,Riviera Beach,2
+Texas,Longview,2
+Mississippi,Utica,2
+Viginia,Harrisonburg,2
+New Jersey,West Orange,2
+Massachusetts,Lynn,2
+Texas,Killeen,2
+Viginia,Newport News,2
+Minnesota,,2
+California,Stockton,2
+California,La Mesa,2
+Wyoming,Cheyenne,2
+Alabama,Dothan,2
+Alabama,Harpersville,2
+Illinois,Danville,2
+Kentucky,Bowling Green,2
+Illinois,Washington,2
+Massachusetts,Brookline,2
+Indiana,Kokomo,2
+New York,Elmhurst,2
+Australia,Brisbane,2
+Texas,Beaumont,2
+Washington,Bellingham,2
+Texas,Galveston,2
+Louisiana,Winnsboro,2
+Montana,Billings,2
+Wisconsin,Wauwatosa,2
+New Jersey,Neptune,2
+Indiana,Martinsville,2
+North Carolina,Whiteville,2
+Michigan,Hamtramck,2
+Guinea,Conakry,2
+Argentina,Las Varillas,2
+Nebraska,Grand Island,2
+California,Harbor City,2
+Oklahoma,Lawton,2
+Bosnia and Herzegovina,Sarajevo,2
+New Jersey,Livingston,2
+Panama,Colon,2
+New York,Watertown,2
+Illinois,Midlothian,2
+Oregon,Medford,2
+Illinois,East St. Louis,2
+North Carolina,Tarboro,2
+Cuba,Havana,2
+Florida,Hollywood,2
+Illinois,Bolingbrook,2
+New Mexico,Hobbs,2
+Maryland,Fort Washington,2
+Denmark,Copenhagen,2
+Georgia,Lawrenceville,2
+North Dakota,Grand Forks,2
+California,Anaheim,2
+Missouri,Sedalia,2
+Brazil,Curitiba,2
+Kentucky,Campbellsville,2
+Arizona,Tempe,2
+Illinois,Kankakee,2
+Ohio,Rossford,2
+Ohio,Martins Ferry,2
+North Carolina,Goldsboro,2
+Oklahoma,Shawnee,2
+New York,White Plains,2
+Serbia,Kraljevo,2
+Pennsylvania,Carlisle,2
+France,Bordeaux,2
+New York,,2
+Pennsylvania,Reading,2
+Kentucky,Owingsville,2
+Pennsylvania,Mahanoy City,2
+Puerto Rico,Fajardo,2
+South Carolina,Newberry,2
+Florida,Bradenton,2
+Alabama,Gadsden,2
+Louisiana,Lake Charles,2
+South Carolina,Marion,2
+California,Santa Cruz,2
+Texas,Denton,2
+Colorado,Colorado Springs,2
+New_Zealand,Auckland,2
+California,Northridge,2
+Bosnia and Herzegovina,Tuzla,2
+New York,Copiague,2
+Texas,Huntsville,2
+Washington,Edmonds,2
+California,Lakewood,2
+Kentucky,Scottsville,2
+Washington,Bremerton,2
+Mississippi,Aberdeen,2
+Arkansas,El Dorado,2
+Pennsylvania,Rochester,2
+Kansas,Overland Park,2
+Pennsylvania,Erie,2
+Mississippi,McComb,2
+Pennsylvania,Ambridge,2
+Iowa,Iowa City,2
+Latvia,Riga,2
+Cameroon,Yaounde,2
+Montenegro,Bijelo Polje,2
+Alabama,Goodwater,2
+Kentucky,Hardinsburg,2
+Alabama,Demopolis,2
+California,Ontario,2
+Arkansas,Hamburg,2
+Kentucky,Corbin,2
+North Carolina,Hickory,2
+New York,Westbury,2
+Minnesota,Duluth,2
+US Virgin Islands,St. Croix,2
+California,Encinitas,2
+New York,Astoria,2
+Lebanon,Beirut,2
+Spain,Palma de Mallorca,2
+New Jersey,,2
+Massachusetts,Roxbury,2
+Sudan,Khartoum,2
+Alaska,Anchorage,2
+North Carolina,Raeford,2
+Mississippi,Biloxi,2
+Venezuela,Caracas,2
+Michigan,Romulus,2
+Arkansas,Jonesboro,2
+California,Eureka,2
+New Jersey,Freehold,2
+Viginia,Waynesboro,2
+Massachusetts,Springfield,2
+Illinois,Carbondale,2
+California,Ventura,2
+North Carolina,New Bern,2
+Argentina,Bahia Blanca,2
+California,Hanford,2
+California,Lancaster,2
+Wisconsin,Green Bay,2
+Texas,Nacogdoches,2
+Florida,Clearwater,2
+Canada,Vancouver,2
+Pennsylvania,Bethel Park,2
+Florida,Eustis,2
+Georgia,Norcross,2
+Georgia,Hogansville,2
+California,Fullerton,2
+Georgia,Sandersville,2
+Texas,Garland,2
+Texas,Waco,2
+Illinois,Granite City,2
+Pennsylvania,Duryea,2
+Croatia,Sibenik,2
+Lithuania,Vilnius,2
+Indiana,Franklin,2
+Pennsylvania,Norristown,2
+Massachusetts,Somerville,1
+Tennessee,Coffee County,1
+Minnesota,Melrose,1
+Tennessee,Cookeville,1
+Minnesota,North Robbinsdale,1
+Texas,Edge,1
+Mississippi,Southaven,1
+Texas,Oakwood,1
+Missouri,Waynesville,1
+Texas,Missouri City,1
+Missouri,Bonne Terre,1
+Texas,Rosenberg,1
+New Mexico,Los Alamos,1
+Texas,Bay City,1
+New York,Cortlandt Manor,1
+Viginia,Amelia,1
+New York,Glens Falls,1
+Viginia,Emporia,1
+North Carolina,Kings Mountain,1
+Washington,Pullman,1
+North Carolina,Lincolnton,1
+Bahamas,Freeport,1
+North Carolina,Black Mountain,1
+Cameroon,Edea,1
+North Carolina,Tryon,1
+China,Harbin Manchuria,1
+Ohio,Ironton,1
+Czech Republic,Pardubice,1
+Ohio,Chillicothe,1
+France,Cannes,1
+Ohio,Glass Rock,1
+Georgia,Rustavi,1
+Ohio,North Canton,1
+Germany,,1
+Oklahoma,Harrah,1
+Lithuania,Klaipeda,1
+South Carolina,Silverstreet,1
+Mexico,Chihuahua,1
+South Dakota,Tripp,1
+Netherlands,Haarlem,1
+Tennessee,Franklin,1
+Netherlands,Didam,1
+Texas,Lantana,1
+New_Zealand,Gisborne,1
+Texas,Otto,1
+Poland,Warsaw,1
+Texas,Flower Mound,1
+Puerto Rico,Mayaguez,1
+Texas,The Colony,1
+Puerto Rico,Caguas,1
+Washington,Port Angeles,1
+Alabama,Patton,1
+Wisconsin,Monroe,1
+Arkansas,Camden,1
+Bosnia and Herzegovina,Bosanska Gradiska,1
+California,Glendora,1
+Brazil,Sao Goncalo,1
+California,Santa Maria,1
+Brazil,Brasilia,1
+California,Laguna,1
+Canada,Welland,1
+California,Cerritos,1
+China,Shanghai,1
+Colorado,Parker,1
+China,Henan,1
+Connecticut,Bristol,1
+Czech Republic,Prague,1
+Florida,Vero Beach,1
+France,Saint-Etienne,1
+Florida,Panama City,1
+Germany,Wurzbach,1
+Florida,Winter Park,1
+Israel,Beit Zera,1
+Georgia,Dalton,1
+Japan,Yokosuka,1
+Georgia,Eastman,1
+Montenegro,Bar,1
+Georgia,Fitzgerald,1
+Netherlands,Den Haag,1
+Illinois,Tolono,1
+Republic of Macedonia,Ohrid,1
+Illinois,Sterling,1
+Senegal,Sindia,1
+Illinois,Griggsville,1
+Serbia,Zajecar,1
+Illinois,Naperville,1
+South Sudan,Gogrial,1
+Illinois,McLeansboro,1
+Taiwan,Kaohsiung,1
+Indiana,Mishawaka,1
+Turkey,Konak,1
+Indiana,Elberfeld,1
+Arkansas,Hot Springs,1
+Kansas,Independence,1
+Arkansas,Fordyce,1
+Kansas,Ark City,1
+Arkansas,Crossett,1
+Kansas,Sublette,1
+Arkansas,McGhee,1
+Kentucky,Monticello,1
+Arkansas,Prescott,1
+Kentucky,Horse Cave,1
+California,Salinas,1
+Kentucky,Midway,1
+California,Westminster,1
+Louisiana,Rayville,1
+California,Mission Hills,1
+Louisiana,Alexandria,1
+California,Arcadia,1
+Maryland,Capitol Heights,1
+California,Reseda,1
+Maryland,Chestertown,1
+California,Upland,1
+Michigan,Warren,1
+Connecticut,New London,1
+Minnesota,Owatonna,1
+Connecticut,Middletown,1
+Mississippi,Ethel,1
+Georgia,Gwinnett,1
+Montana,Glendive,1
+Georgia,Rome,1
+New Jersey,Woodbury,1
+Georgia,Shellman,1
+New Jersey,River Edge,1
+Georgia,Twiggs,1
+New Jersey,Asbury Park,1
+Georgia,Gray,1
+New York,Minoa,1
+Illinois,Roxana,1
+New York,Bayside,1
+Illinois,Libertyville,1
+New York,Liberty,1
+Indiana,Huntington,1
+New York,Bayshore,1
+Indiana,Roachdale,1
+New York,New York City,1
+Iowa,Oskaloosa,1
+New York,Southhampton,1
+Kentucky,Morganfield,1
+North Carolina,Aurora,1
+Louisiana,Natchitoches,1
+Ohio,Kelleys Island,1
+Louisiana,Hico,1
+Oklahoma,Watonga,1
+Louisiana,West Monroe,1
+Tennessee,Shelbyville,1
+Maine,Bangor,1
+Tennessee,Jackson,1
+Massachusetts,Westfield,1
+Texas,Jasper,1
+Michigan,,1
+Viginia,Culpepper,1
+Mississippi,Clarksdale,1
+Viginia,Henrico,1
+Mississippi,Kosciusko,1
+Viginia,Keokee,1
+Mississippi,Madison County,1
+Viginia,Quantico,1
+Mississippi,Ruleville,1
+Wisconsin,Fond du Lac,1
+Missouri,Grandview,1
+Wisconsin,Oshkosh,1
+Missouri,East St. Louis,1
+Wisconsin,Eau Claire,1
+Missouri,Puxico,1
+Canada,Victoria,1
+Nebraska,Bushnell,1
+China,Hebei,1
+New Jersey,Hillside,1
+Colombia,Barranquilla,1
+New Jersey,Edison,1
+Dominica,Roseau,1
+New Mexico,Las Cruces,1
+Finland,Vantaa,1
+New York,Peekskill,1
+France,Calais,1
+New York,Carmel,1
+Israel,Holon,1
+New York,Kew Gardens,1
+Lithuania,Marijampoles,1
+North Carolina,Hoke,1
+Portugal,Lisbon,1
+North Carolina,Chapel Hill,1
+Saint Lucia,Castries,1
+Ohio,Painesville,1
+South Africa,Johannesburg,1
+Ohio,Canal Winchester,1
+Trinidad and Tobago,,1
+Ohio,East Liverpool,1
+United Kingdom,,1
+Oklahoma,Hollis,1
+Alabama,Town Creek,1
+Pennsylvania,Morrisville,1
+Arkansas,Tuckerman,1
+Pennsylvania,Shamokin,1
+Arkansas,Searcy,1
+Pennsylvania,McKees Rocks,1
+Arkansas,Plummerville,1
+South Carolina,Beaufort,1
+California,Rancho Cucamonga,1
+South Carolina,Georgetown,1
+California,Pittsburg,1
+Tennessee,Portland,1
+California,Claremont,1
+Texas,Austin,1
+California,Clayton,1
+Texas,Boyd,1
+California,Downey,1
+Texas,El Mina,1
+Connecticut,Monroe,1
+Utah,Sandy,1
+Florida,Chipley,1
+Viginia,Gate City,1
+Florida,Brandon,1
+Viginia,Fredericksburg,1
+Georgia,Fort Valley,1
+Washington,Everett,1
+Georgia,Carrollton,1
+Wisconsin,Sheboygan,1
+Idaho,Coeur d'Alene,1
+Wisconsin,LaCrosse,1
+Idaho,Pocatello,1
+Angola,Luanda,1
+Illinois,Dekalb,1
+Argentina,Córdoba,1
+Illinois,Phoenix,1
+Argentina,Rio Tercero,1
+Illinois,LaGrange,1
+Bosnia and Herzegovina,Doboj,1
+Illinois,Norris City,1
+Brazil,Sao Carlos,1
+Illinois,East Peoria,1
+Canada,Etobicoke,1
+Indiana,Huntingburg,1
+Czech Republic,Zlin,1
+Indiana,Logansport,1
+Egypt,Alexandria,1
+Indiana,West Lafayette,1
+France,Saint-Maurice,1
+Indiana,LaPorte,1
+Germany,Landstuhl,1
+Kansas,Leavenworth,1
+Greece,Amarousio,1
+Kentucky,Henshaw,1
+Italy,San Giovanni in Persiceto,1
+Kentucky,Farmington,1
+Italy,Caserta,1
+Louisiana,Thibodaux,1
+Mexico,Meoqui,1
+Louisiana,Jonesboro,1
+Puerto Rico,Aibonito,1
+Louisiana,Summerfield,1
+Slovenia,Slovenj Gradec,1
+Maryland,Berlin,1
+Spain,Azuqueca de Henares,1
+Minnesota,Winona,1
+Sweden,Stockholm,1
+Mississippi,Flora,1
+Alabama,Meridianville,1
+Mississippi,Indianola,1
+Arkansas,Blytheville,1
+Mississippi,Laurel,1
+California,Santa Clara,1
+Montana,,1
+California,Oceanside,1
+New Jersey,Plainsboro,1
+California,Palmdale,1
+New Jersey,Fanwood,1
+California,Tarzana,1
+New York,Floral Park,1
+California,Chatsworth,1
+New York,Elmira,1
+California,San Gabriel,1
+New York,Amherst,1
+California,Reedley,1
+New York,Uniondale,1
+California,Los Gatos,1
+New York,Lockport,1
+Colorado,Greeley,1
+New York,Flushing,1
+Florida,Jasper,1
+North Dakota,Bottineau,1
+Florida,Pahokee,1
+Ohio,Reynoldsburg,1
+Florida,Lauderdale Lakes,1
+Ohio,Wilmington,1
+Georgia,Milan,1
+Pennsylvania,Ardmore,1
+Hawaii,Maui,1
+Pennsylvania,Wilkinsburg,1
+Illinois,Lincoln,1
+Pennsylvania,Clairton,1
+Illinois,Cairo,1
+Pennsylvania,Kingston,1
+Iowa,Orange City,1
+Pennsylvania,Orefield,1
+Kansas,Winfield,1
+South Dakota,Mitchell,1
+Kansas,Wamego,1
+New York,Mount Kisco,1
+Kansas,Yale,1
+New York,Scarsdale,1
+Kansas,Meriden,1
+North Dakota,Minot,1
+Kentucky,,1
+Ohio,Warrensville Heights,1
+Kentucky,Bedford,1
+Oklahoma,Taft,1
+Louisiana,Grambling,1
+Oregon,Roseburg,1
+Louisiana,Ferriday,1
+Pennsylvania,Coatesville,1
+Louisiana,Columbia,1
+Pennsylvania,Braddock,1
+Mississippi,Necaise Crossing,1
+Pennsylvania,Sewickley,1
+Mississippi,Kiln,1
+South Carolina,Union,1
+Mississippi,Flowood,1
+South Carolina,Hopkins,1
+Missouri,Charlestown,1
+Tennessee,Antioch,1
+Missouri,Kirksville,1
+Tennessee,Mt. Juliet,1
+New Jersey,Lakewood,1
+Texas,Harlingen,1
+New Jersey,Englewood,1
+Texas,Texarkana,1
+New York,Glendale,1
+Texas,Falls County,1
+New York,Angola,1
+Texas,Texas City,1
+New York,Naples,1
+Texas,Corpus Christi,1
+North Carolina,Franklinton,1
+Texas,Waxahachie,1
+North Carolina,Jonesville,1
+Utah,Pleasant Grove,1
+Ohio,Fostoria,1
+Austria,Vienna,1
+Ohio,Lebanon,1
+Canada,Brampton,1
+Pennsylvania,West Mifflin,1
+France,Cagnes-sur-Mer,1
+Pennsylvania,Lebanon,1
+Mali,Bougouni,1
+Pennsylvania,Midland,1
+Mexico,El Rosario,1
+Pennsylvania,Williamsport,1
+Nigeria,Kaduna,1
+Pennsylvania,Wilkes-Barre,1
+Panama,Panama City,1
+South Carolina,Walterboro,1
+Romania,Triteni,1
+Tennessee,Oak Ridge,1
+South Sudan,Juba,1
+Tennessee,Bells,1
+Spain,El Masnou,1
+Texas,Webster,1
+Switzerland,Morges,1
+Texas,Livingston,1
+Ukraine,Antratsit,1
+Texas,Dublin,1
+Alabama,Anniston,1
+Viginia,South Boston,1
+Alabama,Centreville,1
+Washington,Chelan,1
+Alabama,Selma,1
+Wisconsin,Elkhorn,1
+Alabama,Elba,1
+Wisconsin,Chippewa Falls,1
+California,Richmond,1
+Wisconsin,Phillips,1
+California,Newport Beach,1
+Argentina,Venado Tuerto,1
+California,Lakeport,1
+Canada,Uxbridge,1
+California,Palos Verdes,1
+Finland,Helsinki,1
+Florida,Daytona,1
+France,Le Havre,1
+Florida,Tavares,1
+Iceland,Reykjavik,1
+Idaho,Paul,1
+Lithuania,Marijampole,1
+Illinois,Madison,1
+Norway,Oslo,1
+Illinois,Elmhurst,1
+Panama,Panama Canal Zone,1
+Illinois,East Dundee,1
+Romania,Satu-Mare,1
+Illinois,Trenton,1
+Serbia,Valjevo,1
+Illinois,Sandwich,1
+Slovenia,Maribor,1
+Indiana,New Albany,1
+Switzerland,Geneva,1
+Kansas,Pittsburg,1
+United Kingdom,Southampton,1
+Kansas,Manhattan,1
+Alabama,Leeds,1
+Kentucky,Henderson,1
+Alabama,Fort Rucker,1
+Kentucky,Columbia,1
+Alabama,Bessemer,1
+Kentucky,Princeton,1
+Arizona,Mesa,1
+Louisiana,Gretna,1
+Arkansas,Cherry Valley,1
+Louisiana,Collinston,1
+Arkansas,Cotton Plant,1
+Massachusetts,Arlington,1
+Arkansas,Jacksonville,1
+Massachusetts,New Bedford,1
+California,Greenbrae,1
+Michigan,Battle Creek,1
+California,Edwards AFB,1
+Minnesota,Apple Valley,1
+California,Rosemead,1
+Minnesota,Fulda,1
+California,Orange County,1
+Mississippi,Scooba,1
+California,Colton,1
+Mississippi,Quitman,1
+Delaware,New Castle,1
+Mississippi,Thornton,1
+Florida,Leesburg,1
+New Jersey,Willingboro,1
+Georgia,Valdosta,1
+New Jersey,Caldwell,1
+Georgia,Roswell,1
+New Jersey,New Jersey,1
+Georgia,Thomson,1
+New York,Hempstead,1
+Georgia,Talbotton,1
+Viginia,Covington,1
+Georgia,Perry,1
+Viginia,Falls Church,1
+Illinois,Campbell Hill,1
+Washington,Elma,1
+Illinois,Oak Lawn,1
+Washington,Renton,1
+Illinois,South Holland,1
+Wisconsin,Neenah,1
+Illinois,Gurnee,1
+Antigua and Barbuda,St. John's,1
+Illinois,Roselle,1
+Australia,Canberra,1
+Indiana,Tipton,1
+Bosnia and Herzegovina,Bihac,1
+Indiana,Lebanon,1
+Canada,Winnipeg,1
+Iowa,Washington,1
+China,He Shan,1
+Kentucky,Warren County,1
+Czech Republic,Strakonice,1
+Kentucky,Williamstown,1
+France,Clamart,1
+Louisiana,Sailes,1
+France,Cholet,1
+Louisiana,Delcambre,1
+Gabon,Port-Gentil,1
+Maryland,Havre De Grace,1
+Germany,Eschwege,1
+Massachusetts,Fall River,1
+Hungary,,1
+Michigan,Linwood,1
+Islamic Republic of Iran,Ahvaz,1
+Minnesota,Stillwater,1
+Martinique,Le Robert,1
+Minnesota,Hill City,1
+Nigeria,Nkwere,1
+Minnesota,Gonvick,1
+Serbia,Priboj,1
+Mississippi,Anguilla,1
+Spain,Vic,1
+Mississippi,Tylertown,1
+Turkey,Bursa,1
+Mississippi,Summit,1
+United Kingdom,Farnham,1
+Nebraska,Hastings,1
+United Republic of Tanzania,Dar es Salaam,1
+New Jersey,Belle Mead,1
+Alabama,Covin,1
+New Jersey,Somerville,1
+Alabama,Brantley,1
+New York,Bayville,1
+Alabama,Linden,1
+New York,Mineola,1
+California,Carson,1
+New York,North Babylon,1
+California,Orinda,1
+New York,Huntington Station,1
+California,Costa Mesa,1
+New York,Hudson,1
+California,Covina,1
+New York,Waterloo,1
+California,Mount Shasta,1
+New York,Sunnyside,1
+Florida,Melbourne,1
+North Carolina,High Point,1
+Florida,Longwood,1
+North Carolina,Wagram,1
+Georgia,Elberton,1
+North Carolina,Oxford,1
+Illinois,Centreville,1
+North Carolina,Plymouth,1
+Illinois,Batavia,1
+North Carolina,Halifax,1
+Illinois,Mount Vernon,1
+North Carolina,Golden Valley,1
+Illinois,Moline,1
+Ohio,Zanesville,1
+Kansas,Spearville,1
+Ohio,Shelby,1
+Kentucky,Williamsport,1
+Oregon,Happy Valley,1
+Kentucky,Harlan,1
+Pennsylvania,Bethlehem,1
+Kentucky,Caldwell,1
+Pennsylvania,Aliquippa,1
+Louisiana,Sorrento,1
+Pennsylvania,Holland,1
+Maryland,Havre de Grace,1
+South Carolina,Sumter,1
+Massachusetts,Malden,1
+South Carolina,Ritter,1
+Michigan,Wyoming,1
+Tennessee,Parsons,1
+Minnesota,Cottage Grove,1
+Tennessee,Clarksville,1
+Minnesota,McIntosh,1
+Texas,Hillister,1
+Mississippi,Houston,1
+Texas,Dodd City,1
+Mississippi,Vicksburg,1
+Texas,Albany,1
+Mississippi,Natchez,1
+Texas,Medicine Mound,1
+Missouri,Clarkton,1
+Texas,Crockett,1
+Missouri,Mexico,1
+Texas,Tulia,1
+Montana,Great Falls,1
+Texas,Nederland,1
+Montana,Libby,1
+Texas,Broaddus,1
+New Jersey,Pitman,1
+Utah,Layton,1
+New York,Hicksville,1
+Viginia,Montross,1
+New York,Richmond,1
+Viginia,Suffolk,1
+New York,Rome,1
+Washington,Battle Ground,1
+North Carolina,Gibson,1
+Wisconsin,Owen,1
+North Carolina,Washington,1
+Belgium,Ixelles,1
+Ohio,Barberton,1
+Brazil,Belo Horizonte,1
+Pennsylvania,Ephrata,1
+Canada,Holland Landing,1
+Pennsylvania,Simpson,1
+Croatia,Osijek,1
+Rhode Island,West Warwick,1
+Democratic Republic of the Congo,Lubumbashi,1
+Rhode Island,Westerly,1
+Greece,Heraklion,1
+South Carolina,Lancaster,1
+Guadeloupe,Pointe Noire,1
+South Dakota,Britton,1
+Latvia,Ventspils,1
+Texas,DeSoto,1
+Netherlands,Rotterdam,1
+Texas,Friendswood,1
+Nigeria,Ibadan,1
+Viginia,Dumfries,1
+Puerto Rico,Carolina,1
+Viginia,Williamsburg,1
+Saint Vincent and the Grenadines,Canouan,1
+Viginia,Nansemond County,1
+Senegal,,1
+Viginia,Amherst,1
+Ukraine,Dnepropetrovsk,1
+Washington,Bellevue,1
+Alabama,Perry,1
+Wisconsin,Randolph,1
+Alabama,Hartselle,1
+Wyoming,Lander,1
+Arkansas,North Little Rock,1
+Australia,Hope Forest,1
+California,French Camp,1
+Brazil,Porto Alegre,1
+California,Livermore,1
+Canada,Windsor,1
+California,Chula Vista,1
+Croatia,Drnis,1
+Florida,St. Augustine,1
+Czech Republic,Ostrava,1
+Florida,Pompano Beach,1
+France,Niort,1
+Florida,Belle Glade,1
+Guadeloupe,Pointe-a-Pitre,1
+Georgia,Jonesboro,1
+Mexico,Tepic,1
+Georgia,LaGrange,1
+Montenegro,Kolašin,1
+Georgia,Hinesville,1
+New_Zealand,Rotorua,1
+Georgia,Brunswick,1
+Puerto Rico,San Juan,1
+Georgia,Thomasville,1
+Republic of Korea,Seoul,1
+Illinois,Brooklyn,1
+Serbia,Novi Pazar,1
+Indiana,Colfax,1
+Spain,Sant Feliu de Llobregat,1
+Iowa,Fort Madison,1
+Trinidad and Tobago,Trinidad,1
+Kentucky,Marion,1
+Ukraine,Cherkasy,1
+Kentucky,Richmond,1
+Arkansas,Fayetteville,1
+Kentucky,Central City,1
+California,Glendale,1
+Louisiana,Iowa,1
+California,Fort Ord,1
+Massachusetts,Bernardston,1
+California,Vallejo,1
+Massachusetts,Lawrence,1
+California,Hayward,1
+Michigan,Royal Oak,1
+Connecticut,Waterbury,1
+Michigan,Bloomfield Hills,1
+Georgia,Gainesville,1
+Mississippi,Collins,1
+Illinois,Christopher,1
+Mississippi,Bethlehem,1
+Illinois,Brookfield,1
+Missouri,Ironton,1
+Illinois,Niles,1
+Missouri,West Plains,1
+Indiana,Valparaiso,1
+Missouri,Webster Groves,1
+Indiana,Holland,1
+New Jersey,Rutherford,1
+Indiana,Rushville,1
+New Jersey,Maplewood,1
+Kansas,Pratt,1
+New York,Cold Spring,1
+Louisiana,DeRidder,1
+New York,Brookhaven,1
+Louisiana,Homer,1
+North Carolina,Wilson's Mills,1
+Maryland,Mount Airy,1
+North Carolina,Jacksonville,1
+Maryland,Temple Hills,1
+North Carolina,Lenoir County,1
+Michigan,Wayne,1
+North Dakota,Bowbells,1
+Mississippi,Okolona,1
+Ohio,Mentor,1
+Mississippi,Monticello,1
+Ohio,Newark,1
+Mississippi,Rosedale,1
+Ohio,Caldwell,1
+Missouri,Independence,1
+Oklahoma,Apache,1
+New Jersey,Cherry Hill,1
+Oklahoma,Rocky,1
+New Mexico,Silver City,1
+Oregon,McMinnville,1
+New York,Far Rockaway,1
+Pennsylvania,Mechanicsburg,1
+New York,North Tarrytown,1
+Pennsylvania,Portage,1
+North Carolina,Crossnore,1
+Pennsylvania,Luzerne,1
+North Carolina,Pleasant Grove,1
+Pennsylvania,Monaca,1
+North Carolina,Newton Grove,1
+Pennsylvania,Moon Township,1
+North Carolina,Elizabeth City,1
+Pennsylvania,Penn Hills,1
+North Carolina,Salisbury,1
+Pennsylvania,Darby,1
+Ohio,Jamestown,1
+Pennsylvania,Levittown,1
+Ohio,West Jefferson,1
+Rhode Island,Pawtucket,1
+Ohio,Euclid,1
+Tennessee,Somerville,1
+Oklahoma,Muskogee,1
+Tennessee,Charlotte,1
+Oregon,Tualatin,1
+Tennessee,Hendersonville,1
+Pennsylvania,Butler,1
+Texas,College Station,1
+Pennsylvania,Lancaster,1
+Texas,Grand Prairie,1
+Pennsylvania,Millersville,1
+Texas,Greenville,1
+Rhode Island,North Providence,1
+Texas,Jacksonville,1
+Tennessee,Linden,1
+Texas,Rockwall,1
+Texas,Larue,1
+Texas,Duncanville,1
+Texas,Wichita Falls,1
+Texas,Bonham,1
+Utah,Hooper,1
+Washington,Richland,1
+Utah,Kaysville,1
+Wisconsin,Rice Lake,1
+Wisconsin,Lafarge,1
+Wisconsin,Janesville,1
+Wyoming,Afton,1
+Wyoming,Casper,1
+Wyoming,Sheridan,1
+Bosnia and Herzegovina,Capljina,1
+Argentina,Añatuya,1
+Bosnia and Herzegovina,Trebinje,1
+Belgium,Bruges,1
+Brazil,Joinville,1
+Brazil,Cachoeiro de Itapemirim,1
+Canada,Ottawa,1
+Canada,Kitchener,1
+Cuba,Santa Clara,1
+Croatia,Dubrovnik,1
+Dominican Republic,La Romana,1
+Croatia,Slavonska Pozega,1
+France,Lisieux,1
+Dominican Republic,Puerto Plata,1
+France,Lyon,1
+Italy,Montebelluna,1
+France,Loudeac,1
+Italy,Sant'Angelo Lodigiano,1
+Germany,Aschaffenburg,1
+Italy,Pordenone,1
+Germany,Wuppertal,1
+Latvia,Liepaja,1
+Germany,Leverkusen,1
+Lithuania,Utena,1
+Germany,Braunschweig,1
+Luxembourg,Luxembourg,1
+Germany,Delmenhorst,1
+Nigeria,Kano,1
+Greece,Hania,1
+Republic of Macedonia,Skopje,1
+Guadeloupe,Les Abymes,1
+Republic of the Congo,Brazzaville,1
+Haiti,Port-Au-Prince,1
+Slovenia,Postojna,1
+Israel,Petah Tikva,1
+Spain,Valencia,1
+Italy,Reggio Emilia,1
+Turkey,Giresun,1
+Puerto Rico,Santurce,1
+United Kingdom,Heacham,1
+Serbia,Cacak,1
+Alabama,Vredenburgh,1
+Slovenia,Koper,1
+Alabama,Luverne,1
+Slovenia,Kranj,1
+Alabama,Opelika,1
+Spain,Las Palmas,1
+California,Santa Barbara,1
+Tunisia,Jendouba,1
+California,Lindsay,1
+Turkey,Yalova,1
+Connecticut,New Britain,1
+Alabama,Abbeville,1
+Florida,Stuart,1
+California,Monrovia,1
+Florida,St. Petersburg,1
+California,Tulare,1
+Georgia,Newnan,1
+California,Venice,1
+Illinois,Bloomington,1
+California,San Leandro,1
+Illinois,Arlington Heights,1
+California,,1
+Illinois,Wood River,1
+Connecticut,Norwalk,1
+Illinois,,1
+Delaware,Dover,1
+Illinois,Kewanee,1
+Georgia,Bainbridge,1
+Illinois,Murphysboro,1
+Georgia,West Point,1
+Illinois,Hickory Hills,1
+Illinois,Bellwood,1
+Indiana,Otterbein,1
+Illinois,Park Forest,1
+Indiana,Whiting,1
+Illinois,Freeport,1
+Indiana,Greencastle,1
+Illinois,Eldorado,1
+Iowa,Grand View,1
+Indiana,New Castle,1
+Kansas,Lawrence,1
+Indiana,Grant County,1
+Kansas,Hays,1
+Indiana,Berne,1
+Kentucky,Neon,1
+Indiana,Petersburg,1
+Louisiana,Ruston,1
+Indiana,Hobart,1
+Louisiana,DeQuincy,1
+Indiana,La Porte,1
+Michigan,Ypsilanti,1
+Iowa,Sioux City,1
+Michigan,Paw Paw,1
+Iowa,Muscatine,1
+Minnesota,Bloomington,1
+Kansas,Chanute,1
+Minnesota,St. Louis Park,1
+Kentucky,Corydon,1
+Minnesota,Monticello,1
+Massachusetts,Cambridge,1
+Minnesota,Slayton,1
+Massachusetts,Framingham,1
+New Jersey,Toms River,1
+Michigan,Cassopolis,1
+New Jersey,Waldick,1
+Minnesota,Robbinsdale,1
+New Jersey,Riverside,1
+Mississippi,Carrolton,1
+New Mexico,Alamogordo,1
+Mississippi,Pearl,1
+New York,Elmsford,1
+Montana,Miles City,1
+North Carolina,East Spencer,1
+New Jersey,Long Branch,1
+Ohio,Versailles,1
+New York,Roosevelt,1
+Ohio,Steubenville,1
+North Carolina,Havelock,1
+Ohio,Butler,1
+North Carolina,Murfreesboro,1
+Oklahoma,,1
+North Carolina,Elm City,1
+Oklahoma,Bartlesville,1
+North Carolina,Rockingham,1
+Pennsylvania,Berwick,1
+Ohio,Oxford,1
+Pennsylvania,Wynnewood,1
+Ohio,Lorain,1
+Pennsylvania,Ford City,1
+Oklahoma,Altus,1
+South Dakota,Brookings,1
+Pennsylvania,McKeesport,1
+Tennessee,Millington,1
+Pennsylvania,Swoyersville,1
+Tennessee,Lewisburg,1
+Pennsylvania,West Hazleton,1
+Texas,Harleton,1
+Pennsylvania,Freeland,1
+Utah,Murray,1
+Pennsylvania,West Chester,1
+Rhode Island,Newport,1
+South Carolina,Williamsburg County,1
+South Carolina,Myrtle Beach,1
+Texas,Hillsboro,1
+Viginia,Garrisonville,1
+Washington,Auburn,1
+Wisconsin,Superior,1
+Argentina,Juan José Castelli,1
+Australia,Maryborough,1
+Brazil,Osasco,1
+Brazil,Juiz de Fora,1
+Bulgaria,Triavna,1
+Cameroon,Douala,1
+Cape Verde,Maio,1
+Croatia,Pula,1
+Estonia,Tallinn,1
+France,Sainte-Catherine-les-Arras,1
+France,Montbrison,1
+France,Dreux,1
+Germany,Speyer,1
+Montenegro,Pljevlja,1
+Serbia,Prijepolje,1
+US Virgin Islands,St. Thomas,1
+Alabama,Athens,1
+Alabama,Phenix City,1
+Arkansas,Black Oak,1
+California,Lodi,1
+California,Orange,1
+California,South Gate,1
+Florida,Haines City,1
+Florida,Port St. Lucie,1
+Florida,Monticello,1
+Florida,Fort Pierce,1
+Florida,Fort Myers,1
+Georgia,Lithonia,1
+Georgia,Baxley,1
+Illinois,Harvard,1
+Illinois,Dixon,1
+Indiana,Delphi,1
+Iowa,Emmetsburg,1
+Kansas,Junction City,1
+Maryland,Landover,1
+Maryland,Oxon Hill,1
+Maryland,Columbia,1
+Michigan,St. Joseph,1
+Minnesota,Lake City,1
+Minnesota,Long Lake,1
+Mississippi,Cleveland,1
+Montana,Deer Lodge,1
+New Jersey,Fairview,1
+New Jersey,Kearney,1
+New Jersey,Raritan,1
+New Jersey,Seacaucus,1
+New York,Dobbs Ferry,1
+New York,Utica,1
+New York,Jamestown,1
+New York,Bellerose,1
+New York,Southampton,1
+North Carolina,Shelby,1
+Ohio,New Knoxville,1
+Ohio,Westerville,1
+Ohio,Trotwood,1
+Oklahoma,McCloud,1
+Oklahoma,Owasso,1
+Oklahoma,Temple,1
+Oregon,Coos Bay,1
+Oregon,Salem,1
+Pennsylvania,Palmerton,1
+Pennsylvania,Scranton,1
+South Carolina,Dalzell,1
+South Carolina,Anderson,1
+South Dakota,Sioux Falls,1
+Tennessee,Coldwater,1
+Tennessee,Smyrna,1
+Texas,Del Rio,1
+Texas,San Angelo,1
+Viginia,Sussex,1
+Washington,Ellensburg,1
+Washington,Stevenson,1
+Washington,Aberdeen,1
+Washington,Moses Lake,1
+Wyoming,Hot Springs,1
+Australia,Horsham,1
+Bahamas,Eleuthera,1
+Brazil,Orlandia,1
+Egypt,Cairo,1
+France,Cormeilles-en-Parisis,1
+Germany,Neuwied,1
+Ghana,,1
+Ghana,Accra,1
+Italy,Rome,1
+Italy,Bassano del Grappa,1
+Latvia,Cesis,1
+Serbia,Zrenjanin,1
+Serbia,Sombor,1
+Serbia,Apatin,1
+Sweden,Norrkoping,1
+Switzerland,Zurich,1
+Switzerland,Vevey,1
+Uruguay,Montevideo,1
+Alabama,Clayton,1
+Alabama,Knoxville,1
+Alabama,White Hall,1
+Arkansas,Russellville,1
+California,Moreno Valley,1
+California,Danville,1
+California,San Luis Obispo,1
+California,Visalia,1
+Colorado,Steamboat Springs,1
+Connecticut,Meriden,1
+Florida,Sanford,1
+Florida,Sarasota,1
+Florida,Boynton Beach,1
+Georgia,Townsend,1
+Georgia,Sparta,1
+Illinois,Rosemond,1
+Illinois,Mt. Vernon,1
+Illinois,Lisle,1
+Illinois,Zeigler,1
+Indiana,Fishers,1
+Indiana,Rockville,1
+Iowa,Postville,1
+Kansas,Fort Scott,1
+Kansas,Harper,1
+Kentucky,Lawrenceburg,1
+Kentucky,Trigg County,1
+Louisiana,Bossier City,1
+Louisiana,Vidalia,1
+Massachusetts,Weymouth,1
+Michigan,River Rouge,1
+Minnesota,Excelsior,1
+Minnesota,Thief River Falls,1
+Minnesota,Edina,1
+New Hamshire,Concord,1
+New Jersey,Linwood,1
+New Jersey,Princeton,1
+New Mexico,Clovis,1
+New York,Cornwall,1
+New York,Lockwood,1
+North Carolina,King,1
+North Carolina,Lowlands,1
+North Carolina,Shallotte,1
+North Dakota,Devils Lake,1
+Ohio,Cleveland Heights,1
+Ohio,Kettering,1
+Oklahoma,Washington,1
+Oklahoma,Cotton County,1
+Pennsylvania,Etna,1
+Pennsylvania,Pottstown,1
+Pennsylvania,Easton,1
+Pennsylvania,Renton,1
+Tennessee,Covington,1
+Tennessee,Middleton,1
+Tennessee,Bristol,1
+Tennessee,Brownsville,1
+Texas,,1
+Texas,Bedford,1
+Viginia,Prince George,1
+Wisconsin,Kohler,1
+Canada,Hamilton,1
+France,Maisons Alfort,1
+France,Cucq-Trepied-Stella-Plage,1
+Germany,Frankfort,1
+Germany,Salzgitter,1
+Haiti,Cap-Haitian,1
+Italy,Beano,1
+Mali,Kayes,1
+Montenegro,Podgorica,1
+Netherlands,Den Helder,1
+Netherlands,Eindhoven,1
+Serbia,Nova Varos,1
+Slovakia,Levice,1
+Spain,Tenerife,1
+Ukraine,Karapyshi,1
+Arizona,Scottsdale,1
+Arkansas,Osecola,1
+Arkansas,Altheimer,1
+California,Lompoc,1
+California,Mission Viejo,1
+California,La Jolla,1
+Colorado,Wray,1
+Connecticut,New Canaan,1
+Florida,Cape Coral,1
+Georgia,Dublin,1
+Georgia,Stone Mountain,1
+Idaho,American Falls,1
+Illinois,Charleston,1
+Kentucky,Sturgis,1
+Kentucky,Fulton,1
+Kentucky,London,1
+Maine,York,1
+Maryland,Gaithersburg,1
+Massachusetts,Norwood,1
+Massachusetts,Roslindale,1
+Michigan,Sterling Heights,1
+Michigan,Inkster,1
+Minnesota,Virginia,1
+Mississippi,Silver City,1
+Mississippi,Carthage,1
+Missouri,St. Charles,1
+New Jersey,Merchantville,1
+New York,Middletown,1
+New York,Huntington,1
+New York,Bellport,1
+New York,Monroe,1
+New York,Rockaway,1
+North Carolina,Kelford,1
+North Carolina,Wallace,1
+Ohio,Lee's Creek,1
+Ohio,Sandusky,1
+Ohio,Lancaster,1
+Ohio,Youngstown,1
+Oklahoma,Henryetta,1
+Pennsylvania,Swissvale,1
+Pennsylvania,Abington,1
+Pennsylvania,Homestead,1
+Pennsylvania,New Brighton,1
+Pennsylvania,Hershey,1
+South Carolina,Plymouth,1
+Tennessee,Dresden,1
+Texas,Floydada,1
+Texas,Cumby,1
+Texas,Fairfield,1
+Texas,Keller,1
+Viginia,Shipman,1
+Viginia,Manassas,1
+Washington,Snohomish,1
+Washington,Mount Vernon,1
+Washington,Gate,1
+Wisconsin,,1
+Wisconsin,Lacrosse,1
+Wisconsin,Valders,1
+Australia,E Malvern,1
+Brazil,Santa Teresa,1
+Democratic Republic of the Congo,Goma,1
+Dominican Republic,San Pedro de Macoris,1
+France,Saint-Quentin,1
+Georgia,Sagarejo,1
+Germany,Wiesbaden,1
+Germany,Heidelberg,1
+Greece,Larissa,1
+Ireland,Dublin,1
+Montenegro,Herceg Novi,1
+Morocco,Casablanca,1
+Serbia,Novi Sad,1
+Slovenia,Celje,1
+Turkey,Eskisehir,1
+United Kingdom,Paisley,1
+Alabama,Crenshaw,1
+Alabama,Sylacauga,1
+Arkansas,Conway,1
+Arkansas,Menifee,1
+California,Fountain Valley,1
+California,Etiwanda,1
+California,Burbank,1
+California,Hacienda Heights,1
+Colorado,Cortez,1
+Delaware,Newark,1
+Florida,Cocoa,1
+Georgia,East Point,1
+Georgia,Swainsboro,1
+Georgia,Roberta,1
+Idaho,Arco,1
+Illinois,Robinson,1
+Illinois,Princeton,1
+Indiana,Pennville,1
+Iowa,Dubuque,1
+Kentucky,Beaver Dam,1
+Kentucky,Wickliffe,1
+Kentucky,Webster County,1
+Louisiana,Kentwood,1
+Maryland,Hyattsville,1
+Maryland,Lanham,1
+Massachusetts,Hamilton,1
+Minnesota,New Ulm,1
+Minnesota,Lakeville,1
+Minnesota,St. Cloud,1
+Mississippi,Madison,1
+Mississippi,Greenville,1
+Mississippi,Crawford,1
+Missouri,Crystal City,1
+Missouri,Leonard,1
+Missouri,Springfield,1
+Montana,Havre,1
+New Jersey,Hackensack,1
+New Jersey,Millstone Township,1
+New York,Ogdensburg,1
+New York,Queens Village,1
+New York,Valhalla,1
+New York,Islip,1
+New York,New Hyde Park,1
+New York,Ithaca,1
+New York,Queensbridge,1
+North Carolina,Smithfield,1
+North Carolina,Pineville,1
+North Carolina,Cordova,1
+North Carolina,Henderson,1
+North Carolina,Lexington,1
+Ohio,Midvale,1
+Ohio,Lexington,1
+Ohio,Greenfield,1
+Pennsylvania,Upper Darby,1
+Tennessee,Lobelville,1
+Texas,El Paso,1
+Texas,Port Arthur,1
+Texas,Taylor,1
+Texas,Pearland,1
+Texas,Abilene,1
+Texas,Temple,1
+Viginia,Warrenton,1
+Viginia,Sharps,1
+Viginia,Clarksville,1
+Belgium,Gent,1
+Brazil,Pouso Alegre,1
+Canada,Saskatoon,1
+Gabon,Libreville,1
+Germany,Heidelburg,1
+Germany,Bergisch Gladbach,1
+Israel,Tel Aviv,1
+Italy,Siena,1
+Japan,Toyama,1
+Senegal,Kebemer,1
+Senegal,Thies,1
+Spain,Villanueva de la Serena,1
+Sweden,Kinna,1
+Ukraine,Odessa,1
+Ukraine,Donetsk,1
+Alabama,Leighton,1
+Alabama,Andalusia,1
+Arizona,Clemenceau,1
+Arkansas,Newark,1
+California,Gridley,1
+California,Bloomington,1
+California,Monterey,1
+California,Watsonville,1
+Colorado,Aurora,1
+Colorado,Durango,1
+Connecticut,Litchfield,1
+Connecticut,Torrington,1
+Florida,Ft. Lauderdale,1
+Florida,Fort Walton,1
+Florida,Weirsdale,1
+Florida,Key West,1
+Georgia,Moultrie,1
+Hawaii,Hilo,1
+Illinois,Peru,1
+Indiana,West Baden,1
+Indiana,Chesterton,1
+Iowa,Hampton,1
+Kentucky,Burgin,1
+Kentucky,Vanceburg,1
+Kentucky,Maysville,1
+Kentucky,Flat Lick,1
+Louisiana,Reserve,1
+Louisiana,Mamou,1
+Louisiana,Bernice,1
+Maryland,Hagerstown,1
+Massachusetts,Winthrop,1
+Michigan,Shelby,1
+Minnesota,Dawson,1
+Mississippi,Picayune,1

@@ -1,0 +1,207 @@
+---
+title: "NBA_hackathon"
+author: "Venkata Dhanush Kikkisetti"
+date: "2024-04-07"
+output: pdf_document
+---
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(stringr)
+NBA_cities<-read.csv("/Users/dhanushkikkisetti/Documents/UMD data hackathon/2024_datasets/NBA_Demographics.csv")
+#Checking null values
+map_dbl(NBA_cities,~sum(is.na(.)))
+```
+
+```{r}
+#Checking datatypes
+
+NBA_cities
+
+```
+
+```{r}
+nba_finance<-read_excel("/Users/dhanushkikkisetti/Documents/UMD data hackathon/2024_datasets/NBA_financial_data.xlsx")
+nba_finance
+
+
+```
+```{r}
+nba_finance%>%
+  mutate(City=recode(City,
+                     "Minnesota"="Minneapolis",
+                     "San Franciso"="San Francisco",
+                     "Washington DC"="Washington",
+                     "Indianapolis"="Indianapolis"),
+         State=recode(State,
+                     "Washington DC"="District of Columbia"))->nba_finance
+
+nba_finance$city_state<-str_c(nba_finance$City,"-",nba_finance$State)
+nba_finance%>%
+  select(city_state,'022/2023 Revenue (millions)','Arena Capacity','022/2023 Operating Income (millions)','022/2023 Player Expenses (millions)','2019 Ticket Revenue')->nba_finance
+```
+
+```{r}
+nba_finance
+```
+
+
+```{r}
+NBA_demog_revenue<-inner_join(NBA_cities,nba_finance,by="city_state")
+```
+
+
+```{r}
+#Importing fin
+```
+
+```{r}
+head(NBA_demog_revenue)
+```
+
+```{r}
+NBA_demog_revenue%>%
+  select(-Is_NBA,-X,-state_name,-city_state)->NBA_demog_revenue
+```
+
+```{r}
+NBA_demog_revenue%>%
+  rename("Revenue"="022/2023 Revenue (millions)")->NBA_demog_revenue
+
+NBA_demog_revenue%>%
+  rename("Operating Income"="022/2023 Operating Income (millions)")->NBA_demog_revenue
+
+NBA_demog_revenue%>%
+  rename("Player Expenses"="022/2023 Player Expenses (millions)")->NBA_demog_revenue
+```
+
+```{r}
+NBA_demog_revenue
+```
+
+```{r}
+full_model<-lm(Revenue~.-city,NBA_demog_revenue)
+summary(full_model)
+```
+
+```{r}
+null_model<-lm(Revenue~1-city,NBA_demog_revenue)
+summary(null_model)
+
+tep_outf <- step(null_model, 
+                 scope = list(lower = null_model, upper = full_model),
+                 method = "forward")
+```
+
+```{r}
+library(car)
+library(leaps)
+subset<-regsubsets(Revenue~.-city,NBA_demog_revenue,really.big=T)
+summary(subset)
+```
+
+## We cannot directly run regression on all the varaibles as few independet variables are highly correlated with other varaibles so lets use PCR to reduce its dimentionality and will cover more information on it.  
+```{r}
+X<-model.matrix(full_model)
+head(X)
+```
+
+```{r}
+pc <- stats::prcomp(X)
+pc
+```
+
+```{r}
+100*(pc$sdev^2/sum(pc$sdev^2)) |> round(10)
+```
+
+```{r}
+summary(pc)
+```
+
+```{r}
+pc_s <- prcomp(X, scale = TRUE)
+pc_s
+library(pls)
+
+pcr_reg<-pcr(Revenue~.-city,data=NBA_demog_revenue)
+summary(pcr_reg)
+```
+## Lets try fitting the model by considering the six variables we used to shortlist the model. 
+```{r}
+ NBA_demog_revenue%>%
+  mutate(log_population=log(population),log_density=log(density),population_proper_log=log(population_proper),housing_units_log=log(housing_units))->NBA_demog_revenue
+```
+
+```{r}
+NBA_demog_revenue
+```
+
+
+```{r}
+NBA_demog_revenue%>%
+  select(population,population_proper,density,family_dual_income,income_household_median,income_individual_median,income_household_100_to_150,income_household_150_over,age_median,age_under_10,age_20s,age_30s,age_40s,age_50s,age_60s,age_18_to_24,age_over_65,divorced,family_dual_income,education_less_highschool,education_highschool,education_some_college,rent_median,education_bachelors,rent_burden,education_graduate,education_college_or_above,education_stem_degree,labor_force_participation,housing_units,male,home_value,home_ownership,unemployment_rate,race_white,race_black,race_asian,race_multiple,hispanic,disabled,poverty,limited_english,commute_time,Players_origin,health_uninsured,veteran,'2019 Ticket Revenue','Arena Capacity',Revenue)->NBA_demog_revenue
+```
+
+```{r}
+new_model<-lm(Revenue~.-family_dual_income-income_household_150_over-age_median-age_18_to_24-age_20s-age_30s-age_40s-age_50s-age_60s-age_over_18-home_value-home_ownership-unemployment_rate-race_white-race_asian-race_multiple-hispanic-disabled-poverty-limited_english-commute_time-Players_origin,data = NBA_demog_revenue)
+summary(new_model)
+```
+
+```{r}
+new_model_null<-lm(Revenue~1,NBA_demog_revenue)
+new_model_full<-lm(Revenue~.,NBA_demog_revenue)
+```
+
+```{r}
+tep_outf <- step(new_model_null, 
+                 scope = list(lower = new_model_null, upper = new_model_full),
+                 method = "forward",steps = 15)
+```
+```{r}
+final_model1<-lm(Revenue~`2019 Ticket Revenue` + 
+    education_graduate + income_household_150_over + income_household_100_to_150 + 
+    limited_english + race_multiple + veteran + unemployment_rate + 
+    home_ownership + commute_time + poverty ,NBA_demog_revenue)
+```
+
+```{r}
+summary(final_model1)
+```
+
+```{r}
+testdata=data_frame(rent_median=1356,home_ownership=54.8,rent_burden=35.2,race_black=11.8,commute_time=25.9,limited_english=6.4,hispanic=34.3,family_dual_income=49.7,Players_origin=12,race_asian=6.9,income_household_100_to_150=16,`2019 Ticket Revenue`=114.8,`Player Expenses`=117,population=2248047,poverty=14.7,veteran=8.2,health_uninsured=13.1,education_graduate=9.5,income_household_150_over=15.5,race_multiple=13.9,unemployment_rate=7.4)
+predict(final_model1,newdata = testdata)
+```
+
+
+```{r}
+subset<-regsubsets(Revenue~.,NBA_demog_revenue,nvmax = 10)
+summary(subset)
+```
+
+```{r}
+cor(NBA_demog_revenue)
+```
+
+```{r}
+vif(new_model)
+```
+
+```{r}
+testdata=data_frame(log_population=log(2248047),log_density=log(1755),age_median=38.1,age_18_to_24=8.6,male=50.3,never_married=36.4,income_household_median=66356,
+                    income_individual_median=35216,housing_units=240462,unemployment_rate=7.4,rent_median=1356,race_multiple=13.9,poverty=14.7,commute_time=25.9,
+                    population_proper_log=log(644835))
+predict(new_model,newdata = testdata)
+```
+
+```{r}
+new_model
+```
+
+```{r}
+head(NBA_demog_revenue)
+```
+
+
